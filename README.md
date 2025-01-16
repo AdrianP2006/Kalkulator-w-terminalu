@@ -1,1 +1,1 @@
-# Kalkulator-w-terminalu
+# Kalkulator w terminalu
