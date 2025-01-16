@@ -1,4 +1,4 @@
-cum = 0 
+num = 0 
 operation = None
 reset = True
 result = None
